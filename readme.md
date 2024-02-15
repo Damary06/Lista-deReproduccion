@@ -21,6 +21,6 @@ Para iniciar sesión, utiliza las siguientes credenciales:
 ## Uso
 
 1. Puedes reproducir sus 30 canciones previamente cargadas
-2. Puedes revisar tambien el codigo en el repositorio .+++++añade el repositorio++++.
+2. Puedes revisar tambien el codigo en el repositorio .+++++ https://github.com/Damary06/Lista-deReproduccion.git)https://github.com/Damary06/Lista-deReproduccion.git ++++.
 Que lo disfrutes =)
 
