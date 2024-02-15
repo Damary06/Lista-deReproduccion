@@ -1,0 +1,83 @@
+#searchInput {
+    width: calc(100% - 20px);
+    margin-bottom: 10px;
+}
+
+.playlist {
+    float: right;
+    width: 300px;
+    margin-left: 20px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+.controls {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.controls button {
+    margin: 0 5px;
+}
+
+.favorites-management {
+    margin-top: 20px;
+}
+
+.favorites-management button {
+    margin-right: 10px;
+}
+
+.progress-bar {
+    width: 30%;
+    height: 3px;
+    background-color: #ccc;
+    margin: 5px auto;
+}
+
+.bar {
+    height: 100%;
+    background-color: #4caf50;
+    width: 0%;
+}
+
+.song-info {
+    margin-top: 20px;
+}
+
+.song-info div {
+    margin-bottom: 10px;
+}
+
+#playFavoritesButton {
+    margin-bottom: 10px;
+}
+
+#favoritesList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#favoritesList li {
+    margin-bottom: 5px;
+}
+
+#addToFavoritesButton {
+    margin-bottom: 10px;
+}
+
+
